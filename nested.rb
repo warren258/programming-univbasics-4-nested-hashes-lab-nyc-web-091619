@@ -85,7 +85,7 @@ def adding_matz
         }
      }
 
-    programmer_hash[:yukihiro_matsumoto] = new:key = "programmer"
+    programmer_hash[:yukihiro_matsumoto] new:key = "programmer"
 end
 
 def changing_alan
